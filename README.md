@@ -13,8 +13,6 @@ Las tecnologías utilizadas son las siguientes:
 - [Matplotlib](https://matplotlib.org/), visualización con Python
 - [scikit-learn](https://scikit-learn.org/), Machine Learning en Python
 
-
-
 ## Recursos para investigar
 
 - [Python for Data Analysis](https://wesmckinney.com/book/)
