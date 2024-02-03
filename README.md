@@ -13,6 +13,8 @@ Las tecnologías utilizadas son las siguientes:
 - [Matplotlib](https://matplotlib.org/), visualización con Python
 - [scikit-learn](https://scikit-learn.org/), Machine Learning en Python
 
+Los resultados de mi trabajo final están en la *notebook* `./src/Proyecto Final.ipynb` junto a una copia del dataset utilizado en `./src/2023_Sysarmy_Encuesta_remuneración_salarial.csv`. También se puede consultar en la versión *html* a través del siguiente [enlace](https://lmtreser.github.io/intro-data-science/). 
+
 ## Recursos para investigar
 
 - [Python for Data Analysis](https://wesmckinney.com/book/)
